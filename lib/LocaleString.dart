@@ -6,6 +6,6 @@ class LocaleString extends Translations {
   Map<String, Map<String, String>> get keys => {
         'en_US': {'hellonew': 'Hello new', 'message': "Message"},
         'hi_IN': {'hellonew': 'नमस्ते नवीन', 'message': "संदेश"},
-        'mr_IN': {'hellonew': 'नवीन नमस्कार', 'message': "संदेश"}
+        'mr_IN': {'hellonew': 'नवीन नमस्कार', 'message': "संदेश "}
       };
 }
